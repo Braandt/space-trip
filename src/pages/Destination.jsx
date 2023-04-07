@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 import planetsInfos from '../../public/planetsInfos.json'
 

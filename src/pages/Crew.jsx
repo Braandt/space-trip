@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 import crewInfos from '../../public/crewInfos.json'
 
