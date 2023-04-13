@@ -31,7 +31,7 @@ export default function Home() {
                         md:justify-end'
                     >
                         <div
-                            className='h-[274px] w-[274px] bg-white text-black flex items-center justify-center rounded-full mt-12 transition-all
+                            className='aspect-square w-[274px] bg-white text-black flex items-center justify-center rounded-full mt-12 transition-all shadow-2xl
                             hover:outline hover:outline-[#979797]/[0.5] hover:outline-[60px] hover:cursor-pointer
                             md:mt-0'
                         >
