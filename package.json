@@ -1,17 +1,19 @@
 {
-  "name": "pollux-construction",
+  "name": "space-trip",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "vercel deploy"
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.10.0"
+    "react-router-dom": "^6.10.0",
+    "vercel": "^28.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
